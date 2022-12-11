@@ -1,6 +1,6 @@
 ### Welcome! 
 
-[Internship Repo] (https://github.com/pittcsc/Summer2023-Internships)
+Internship Repo(https://github.com/pittcsc/Summer2023-Internships)
 
 <!--
 **owini/owini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
