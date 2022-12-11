@@ -34,7 +34,5 @@ Coding Languages
 ---
 
 <div>
-  <img src="https://komarev.com/ghpvc/?username=owini&style=flat-square&color=green" alt="profile views counter"/>
-  &nbsp;
   <img src="https://img.shields.io/github/followers/owini?label=Follow%20Me%21&style=social" alt="followers counter"/>
 </div>
