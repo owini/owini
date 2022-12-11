@@ -34,5 +34,6 @@ Coding Languages
 ---
 
 <div>
+ <a href="https://github.com/owini">
   <img src="https://img.shields.io/github/followers/owini?label=Follow%20Me%21&style=social" alt="followers counter"/>
 </div>
