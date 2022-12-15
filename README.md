@@ -22,7 +22,7 @@
 
 ---
 
-Coding Languages
+<b>Coding Languages<b>
 
 <div style="display:flex">
  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
