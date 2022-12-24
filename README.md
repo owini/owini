@@ -3,9 +3,9 @@
 
   - 🔭  I'm Olivia, a Finance + Computer Science student, investor, and lifelong learner.
   - 🌱  Learning data science, financial modeling, and optimization.
-  - 🚀  Coled Pitt CSC and help maintain the [The Pitt CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships)
-  - ⚡   Fun fact: Protein cookie dough is my fav!
-  - 🤍   Rewriting the Code and Grace Hopper Fellow
+  - 🚀  Helped scale Pitt CSC and maintain the [The Pitt CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships)
+  - ⚡  Fun fact: Protein cookie dough and double shot espresso are my favs!
+  - 🤍  Rewriting the Code and Grace Hopper Fellow
  
  <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=owini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="owini's GitHub stats" width=400 />
