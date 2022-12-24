@@ -2,7 +2,7 @@
 ---
 
 - 🔭 I'm Olivia, a Finance + Computer Science student, investor, and lifelong learner.
-- 🌱 Currently studying data science, financial modeling, and systems.
+- 🌱 Currently studying data science, financial modeling, and optimization.
 - 👯 Love open source projects and am always open to collaborating!
 - ⚡ Fun fact: Protein cookie dough is my fav! 
 - 😄 Pronouns: she/her
