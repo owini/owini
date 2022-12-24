@@ -1,14 +1,12 @@
-Hello! 
+Welcome! 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owini&show_icons=true&theme=material-palenight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owini&layout=compact&theme=material-palenight&hide=jupyter%20notebook"/>
-</div>
-
----
-
-<b>Coding Languages<b>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=owini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="owini's GitHub stats" width=400 />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=owini&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width=400  />
+</p>
+  
+ <b>Coding Languages<b>
 
 <div style="display:flex">
  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -17,11 +15,6 @@ Hello!
  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 </div>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=owini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="owini's GitHub stats" width=400 />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=owini&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width=400  />
-</p>
 
 ---
 
