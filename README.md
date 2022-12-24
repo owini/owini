@@ -3,7 +3,7 @@
 
   - 🔭  I'm Olivia, a Finance + Computer Science student, investor, and lifelong learner.
   - 🌱  Learning data science, financial modeling, and optimization.
-  - 🚀  Helped scale [Pitt CSC](https://pittcsc.org/) and maintain the [the Pitt CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships)
+  - 🚀  Helped scale [Pitt CSC](https://pittcsc.org/) and maintain the [ Pitt CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships)
   - ⚡  Fun fact: Protein cookie dough and double shot espresso are my favs!
   - 🤍  Rewriting the Code and Grace Hopper Fellow
  
