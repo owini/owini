@@ -1,5 +1,12 @@
-<b align="center">Welcome!<b>
+<b>Welcome!<b>
 ---
+
+- 🔭 I'm Olivia, a Finance + Computer Science student, investor, and lifelong learner.
+- 🌱 Currently studying data science, financial modeling, and systems.
+- 👯 Love open source projects and am always open to collaborating!
+- ⚡ Fun fact: Protein cookie dough is my fav snack! 
+- 😄 Pronouns: she/her
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=owini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="owini's GitHub stats" width=400 />
