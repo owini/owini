@@ -1,4 +1,4 @@
-<b>Welcome!<b>
+<b align="center">Welcome!<b>
 ---
 
 <p align="center">
@@ -6,7 +6,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=owini&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width=400  />
 </p>
   
- <b>Coding Languages<b>
+ <b align="center">Coding Languages<b>
 
 <div style="display:flex", align="center">
  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
