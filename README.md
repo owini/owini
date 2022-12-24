@@ -1,11 +1,11 @@
 <b>Welcome!<b>
 ---
 
-- 🔭 I'm Olivia, a Finance + Computer Science student, investor, and lifelong learner.
-- 🌱 Currently studying data science, financial modeling, and optimization.
-- 👯 Love open source projects and am always open to collaborating! I'm one of the former Presidents of Pitt CSC and one of the maintainers of the Pitt CSC Internship Repo. 
-- ⚡ Fun fact: Protein cookie dough is my fav! 
-- 😄 Pronouns: she/her
+  - 🔭  I'm Olivia, a Finance + Computer Science student, investor, and lifelong learner.
+  - 🌱  Learning data science, financial modeling, and optimization.
+  - 🚀  Coled Pitt CSC and help maintain the [The Pitt CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships)
+  -⚡   Fun fact: Protein cookie dough is my fav!
+  -😄   Pronouns: she/her
 
 
 <p align="left">
