@@ -11,10 +11,6 @@
  <p align="left">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=owini&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width=400  />
 </p>
- 
-
----
-
  <b>Coding Languages and Technologies<b>
 
 <div style="display:flex", align="left">
