@@ -1,4 +1,7 @@
-<b>Welcome!<b>
+<div align="center">
+    <h1>Welcome!</h1>
+</div>
+
 ---
 
  - 🔭  I'm Olivia, a Finance + Computer Science student, investor, and lifelong learner.
