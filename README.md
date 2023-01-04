@@ -15,8 +15,9 @@
 <div align="left">
  
  <h1><b>Coding Languages and Technologies<b></h1>
-
  </div>
+  
+![](https://i.imgur.com/waxVImv.png)
 <div style="display:flex", align="left">
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
   <a href="https://dev.java/"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
