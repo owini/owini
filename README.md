@@ -1,6 +1,6 @@
 
 <b>Welcome!</b>
----
+![](https://i.imgur.com/waxVImv.png)
 
  - 🔭  I'm Olivia, a Finance + Computer Science student, investor, and lifelong learner.
  - 🌱  Learning data science, financial modeling, and optimization.
