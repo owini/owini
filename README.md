@@ -12,8 +12,6 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=owini&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width=400  />
 </p>
 
-![](https://i.imgur.com/waxVImv.png)
-
 <div align="left">
  
  <h1><b>Coding Languages and Technologies<b></h1>
@@ -30,10 +28,8 @@
   <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   
-  
-  
-
 </div>
 
----
+![](https://i.imgur.com/waxVImv.png)
+
 
