@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
  <h1><b>Welcome!</b></h1>
 </div>
 
