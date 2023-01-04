@@ -1,5 +1,7 @@
+<div align="right">
+ <h1><b>Welcome!</b></h1>
+</div>
 
-<b>Welcome!</b>
 ![](https://i.imgur.com/waxVImv.png)
 
  - 🔭  I'm Olivia, a Finance + Computer Science student, investor, and lifelong learner.
