@@ -15,7 +15,12 @@
 </p>
 
 ![](https://i.imgur.com/waxVImv.png)
- <b>Coding Languages and Technologies<b>
+
+<div align="left">
+ 
+ <h1><b>Coding Languages and Technologies<b></h1>
+
+ </div>
 ---
 <div style="display:flex", align="left">
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
