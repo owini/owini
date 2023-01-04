@@ -2,8 +2,6 @@
  <h1><b>Welcome!</b></h1>
 </div>
 
-![](https://i.imgur.com/waxVImv.png)
-
  - 🔭  I'm Olivia, a Finance + Computer Science student, investor, and lifelong learner.
  - 🌱  Learning data science, financial modeling, and optimization.
  - 🚀  Helped scale [Pitt CSC](https://pittcsc.org/) and maintain the [ Pitt CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships)
