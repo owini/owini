@@ -6,7 +6,7 @@
  - 🌱  Learning data science, financial modeling, and optimization.
  - 🚀  Helped scale [Pitt CSC](https://pittcsc.org/) and maintain to:
     - [ Pitt CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships)
-    - the [New Grad Repo](https://github.com/owini/New-Grad-Positions-2023)
+    - [New Grad Tech Positions for 2023](https://github.com/owini/New-Grad-Positions-2023)
  - ⚡  Fun fact: Protein cookie dough and double shot espresso are my favs!
  - 🤍  Rewriting the Code and Grace Hopper Fellow
  
