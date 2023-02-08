@@ -32,5 +32,5 @@
 </div>
 
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=owini&show_icons=true"/>
 
