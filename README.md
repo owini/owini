@@ -5,7 +5,7 @@
  - 🔭  I'm Olivia, a Finance, Economics & CS student, investor, and lifelong learner.
  - 🌱  Learning data science, financial modeling, and optimization.
  - 🚀  Helped scale [Pitt CSC](https://pittcsc.org/), [Panther Algo Trading](https://github.com/PantherAlgoTrading), and [Panther ML](https://github.com/PantherML).
- - 🌟  Contributed and maintained the [CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships) & [New Grad Positions Repo](https://github.com/pittcsc/New-Grad-Positions). Both repos have been acquired by Simplify! 🥇
+ - 🌟  Contributed and maintained the [CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships) & [New Grad Positions Repo](https://github.com/pittcsc/New-Grad-Positions). Both repos have been acquired by [Simplify](https://simplify.jobs/)! 🥇
  - 🤍  [Rewriting the Code](https://rewritingthecode.org/) & [Grace Hopper Fellow](https://ghc.anitab.org/)
  
  <p align="left">
