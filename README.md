@@ -3,7 +3,7 @@
 </div>
 
  - 🔭  I'm Olivia, an investor and lifelong learner studying CS, Finance, & Psychology at Harvard
- - 🌱  Learning AI/ML, data science, financial modeling, and optimization
+ - 🌱  Currently learning AI/ML, data science, financial modeling, and optimization
  - 🤍  [Rewriting the Code](https://rewritingthecode.org/) & [Grace Hopper Fellow](https://ghc.anitab.org/)
 
 Previously:
