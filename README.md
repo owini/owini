@@ -2,7 +2,7 @@
  <h1><b>Welcome!</b></h1>
 </div>
 
- - 🔭  I'm Olivia, an investor and lifelong learner studying CS, Finance, & Psychology at Harvard
+ - 🔭  I'm Olivia, an investor and interdisciplinary learner studying CS, Finance, & Psychology at Harvard
  - 🌱  Currently learning AI/ML, data science, financial modeling, and optimization
  - 🤍  [Rewriting the Code](https://rewritingthecode.org/) & [Grace Hopper Fellow](https://ghc.anitab.org/)
 
