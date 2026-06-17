@@ -6,11 +6,11 @@
  - 🌱  Learning AI/ML, data science, financial modeling, and optimization
  - 🤍  [Rewriting the Code](https://rewritingthecode.org/) & [Grace Hopper Fellow](https://ghc.anitab.org/)
 
- - Previously:
-  - 🏛️  Investment Research Analyst at a multi-billion-dollar asset manager (2023 - 2025)
-  - 🚀  Helped scale [Pitt CSC](https://pittcsc.org/), [Panther Algo Trading](https://github.com/PantherAlgoTrading), and [Panther ML](https://github.com/PantherML)
-  - 🌟  Maintained the [CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships) & [New Grad Positions Repo](https://github.com/pittcsc/New-Grad-Positions). Both repos have been acquired by [Simplify](https://simplify.jobs/)! 🥇
- 
+Previously:
+ - 🏛️  Investment Research Analyst at a multi-billion-dollar asset manager (2023 - 2025)
+ - 🚀  Helped scale [Pitt CSC](https://pittcsc.org/), [Panther Algo Trading](https://github.com/PantherAlgoTrading), and [Panther ML](https://github.com/PantherML)
+ - 🌟  Maintained the [CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships) & [New Grad Positions Repo](https://github.com/pittcsc/New-Grad-Positions). Both repos have been acquired by [Simplify](https://simplify.jobs/)! 🥇
+
    
  <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=owini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Olivia's GitHub Stats" width=400 />
