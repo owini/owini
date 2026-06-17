@@ -2,12 +2,16 @@
  <h1><b>Welcome!</b></h1>
 </div>
 
- - 🔭  I'm Olivia, a Finance, Economics & CS student, investor, and lifelong learner
- - 🌱  Learning data science, financial modeling, and optimization
+ - 🔭  I'm Olivia, an investor and lifelong learner studying CS, Finance, & Psychology at Harvard
+ - 🌱  Learning AI/ML, data science, financial modeling, and optimization
+ - 🤍  [Rewriting the Code](https://rewritingthecode.org/) & [Grace Hopper Fellow](https://ghc.anitab.org/)
+
+ - Previously:
+ - Investment Research Analyst at a multi-billion-dollar asset manager (2023 - 2025)
  - 🚀  Helped scale [Pitt CSC](https://pittcsc.org/), [Panther Algo Trading](https://github.com/PantherAlgoTrading), and [Panther ML](https://github.com/PantherML)
  - 🌟  Maintained the [CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships) & [New Grad Positions Repo](https://github.com/pittcsc/New-Grad-Positions). Both repos have been acquired by [Simplify](https://simplify.jobs/)! 🥇
- - 🤍  [Rewriting the Code](https://rewritingthecode.org/) & [Grace Hopper Fellow](https://ghc.anitab.org/)
- 
+
+  
  <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=owini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Olivia's GitHub Stats" width=400 />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=owini&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Olivia's GitHub Stats" width=400 />
