@@ -37,5 +37,7 @@ Previously:
   
 </div>
 
-
+<p align="center">
+  <img src="building.gif" width=1024>
+</p>
 
