@@ -11,7 +11,10 @@ Previously:
  - 🚀  Helped scale [Pitt CSC](https://pittcsc.org/), [Panther Algo Trading](https://github.com/PantherAlgoTrading), and [Panther ML](https://github.com/PantherML) (2020 - 2022)
  - 🌟  Maintained the [CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships) & [New Grad Positions Repo](https://github.com/pittcsc/New-Grad-Positions). Both repos have been acquired by [Simplify](https://simplify.jobs/)! 🥇
 
-   
+<p align="center">
+  <img src="building.gif" width=1024>
+</p>
+
  <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=owini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Olivia's GitHub Stats" width=400 />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=owini&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Olivia's GitHub Stats" width=400 />
@@ -36,8 +39,4 @@ Previously:
   <a href="https://github.com/"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   
 </div>
-
-<p align="center">
-  <img src="building.gif" width=1024>
-</p>
 
