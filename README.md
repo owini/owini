@@ -2,8 +2,8 @@
  <h1><b>Welcome!</b></h1>
 </div>
 
- - 🔭  I'm Olivia, an investor and interdisciplinary student focused on CS, Finance, & Psychology
- - 🌱  Currently learning AI/ML, data science, financial modeling, and optimization
+ - 🔭  I'm Olivia, an investor and interdisciplinary student studying computer science, finance, and psychology, with interests in AI, markets, & human behavior.
+ - 🌱  Currently learning AI/ML, data science, & quantitative research
  - 🤍  [Rewriting the Code](https://rewritingthecode.org/) & [Grace Hopper Fellow](https://ghc.anitab.org/)
 
 Previously:
