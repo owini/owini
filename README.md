@@ -12,7 +12,7 @@ Previously:
  - 🌟  Maintained the [CSC Internship Repo](https://github.com/pittcsc/Summer2023-Internships) & [New Grad Positions Repo](https://github.com/pittcsc/New-Grad-Positions). Both repos have been acquired by [Simplify](https://simplify.jobs/)! 🥇
 
 <p align="center">
-  <img src="building.gif" width=1024>
+  <img src="building.gif" width=600>
 </p>
 
  <p align="left">
