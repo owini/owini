@@ -1,5 +1,5 @@
 <div align="left">
- <h1><b>Hi, I'm Olivia</b></h1>
+ <h1><b>Hi, I'm Olivia!</b></h1>
 </div>
 
  - 🔭  I'm an investor and interdisciplinary student studying computer science, finance, and psychology, with interests in AI, markets, & human behavior.
