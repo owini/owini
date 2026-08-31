@@ -9,7 +9,7 @@
 Previously:
  - 🏛️  Investment Research Analyst at a $10B+ asset manager (2023 - 2025)
  - 🚀  Helped build & scale [Pitt CSC](https://pittcsc.org/), [Panther Algo Trading](https://github.com/PantherAlgoTrading), and [Panther ML](https://github.com/PantherML) (2020 - 2022)
- - 🌟  Maintained the [CSC Summer Internship Repo](https://github.com/Simplify/Summer2027-Internships) & [New Grad Positions Repo](https://github.com/pittcsc/New-Grad-Positions). Both got acquired by [Simplify](https://simplify.jobs/)! 🥇
+ - 🌟  Maintained the [CSC Summer Internship Repo](https://github.com/SimplifyJobs/Summer2027-Internships) & [New Grad Positions Repo](https://github.com/pittcsc/New-Grad-Positions). Both got acquired by [Simplify](https://simplify.jobs/)! 🥇
 
 
 
