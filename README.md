@@ -4,7 +4,7 @@
 
  - 🔭  I'm an investor and interdisciplinary student studying computer science, finance, and psychology, with interests in AI, markets, & human behavior.
  - 🌱  Currently investing and exploring AI/ML, data science, & computational finance
- - 🤍  [Rewriting the Code](https://rewritingthecode.org/) & [Grace Hopper Fellow](https://ghc.anitab.org/)
+ - 🤍  [Rewriting the Code](https://rewritingthecode.org/), [CodePath Fellow](https://www.codepath.org/), & [Grace Hopper Fellow](https://ghc.anitab.org/)
 
 Previously:
  - 🏛️  Investment Research Analyst at a $10B+ asset manager (2023 - 2025)
